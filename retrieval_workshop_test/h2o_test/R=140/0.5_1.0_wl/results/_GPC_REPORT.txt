@@ -1,0 +1,5 @@
+PSG on GPC Job Engine Report: 
+For this submission we processed a total of 200 jobs/folders. Of those jobs/folders 200 completed successfully and 0 encountered error. 
+
+Successful results reside in the <psg_config_file_name>.txt files. 
+Failed job error messages reside in the <psg_config_file_name>.ERROR files
